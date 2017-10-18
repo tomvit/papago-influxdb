@@ -3,6 +3,6 @@
 
 Papago-influxdb serivce implements the interface to accept such GET requests and writes the data to [InfluxDB](https://www.influxdata.com/time-series-platform/), an open-source time-series database. The data from InfluxDB can then be displayed on a dashboard such as [Grafana](https://grafana.com/). 
 
-The below chart is a sample chart from Grafana displaying measurements from InfluxDB. 
+The below is a sample chart from Grafana displaying measurements from InfluxDB. 
 
 ![Grafana Papago Chart](https://github.com/tomvit/papago-influxdb/raw/master/bin/Grafana-chart-sample.png "Grafana Chart Sample")
