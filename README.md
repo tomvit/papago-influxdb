@@ -6,4 +6,4 @@ and writes them to InfluxDB, a time-series database.
 The data from InfluxDB then can be displayed on a dashboard such as the one provided by InfluxDB or Grafana. The below screenshot shows 
 the electrometer readings in Grafana. 
 
-
+![](img/grafana-chart-sample.png)
