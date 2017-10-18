@@ -5,4 +5,4 @@ Papago-influxdb serivce implements the interface to accept such GET requests and
 
 The below is a sample chart from Grafana displaying measurements from InfluxDB. 
 
-![Grafana Papago Chart](https://github.com/tomvit/papago-influxdb/raw/master/bin/Grafana-chart-sample.png "Grafana Chart Sample")
+![Grafana Papago Chart](https://github.com/tomvit/papago-influxdb/raw/master/bin/Grafana-example.png "Grafana Chart Sample")
